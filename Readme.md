@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------
 SPA:
 
-**TBOI es un videojuego** de logica similar al snake en el que ahora Isaac se ha
+**TBOISNAAKE es un videojuego** de logica similar al snake en el que ahora Isaac se ha
 convertido en un gusano rosa **(Isnaake)** y debera irse comiendo todas las mierdas que 
 veas en la pantalla para poder crecer . Seras capaz de hacer crecer a **Isnaake**?
 
@@ -23,7 +23,7 @@ Para jugar simplemente tendras que ir moviendote por toda la pantalla para captu
 
 ENG:
 
-**TBOI is a game** of logic similar to snake in which Isaac has now
+**TBOISNAAKE is a game** of logic similar to snake in which Isaac has now
 turned into a pink worm **(Isnaake)** and will have to eat all the shit that
 see on the screen to be able to grow. Will you be able to grow up **Isnaake**?
 
