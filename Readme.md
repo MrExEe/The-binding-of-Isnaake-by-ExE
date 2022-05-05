@@ -27,10 +27,10 @@ ENG:
 turned into a pink worm **(Isnaake)** and will have to eat all the shit that
 see on the screen to be able to grow. Will you be able to grow up **Isnaake**?
 
--[x] Incorporate record system
--[ ] Incorporate enemies
--[ ] Add new skins to Isnaake
--[ ] Add new food for Isnaake
+- [x] Incorporate record system
+- [ ] Incorporate enemies
+- [ ] Add new skins to Isnaake
+- [ ] Add new food for Isnaake
 
 
  
