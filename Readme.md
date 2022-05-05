@@ -6,10 +6,10 @@ SPA:
 convertido en un gusano rosa **(Isnaake)** y debera irse comiendo todas las mierdas que 
 veas en la pantalla para poder crecer . Seras capaz de hacer crecer a **Isnaake**?
 
--[x] Incorporar sistema de record
--[ ] Incorporar enemigos
--[ ] Incorporar nuevas skins a Isnaake
--[ ] Incorporar nuevos alimentos para Isnaake
+- [x] Incorporar sistema de record
+- [ ] Incorporar enemigos
+- [ ] Incorporar nuevas skins a Isnaake
+- [ ] Incorporar nuevos alimentos para Isnaake
 
 
  
