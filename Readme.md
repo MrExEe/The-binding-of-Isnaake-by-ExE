@@ -9,7 +9,7 @@ veas en la pantalla para poder crecer . Seras capaz de hacer crecer a **Isnaake*
 
 - [x] Incorporar sistema de record
 - [x] Incorporar banda sonora
-- [ ] Incorporar enemigos
+- [ ] Incorporar Oponente
 - [ ] Incorporar nuevas skins a Isnaake
 - [ ] Incorporar nuevos alimentos para Isnaake
 
@@ -31,7 +31,7 @@ see on the screen to be able to grow. Will you be able to grow up **Isnaake**?
 
 - [x] Incorporate record system
 - [x] Incorporate OST
-- [ ] Incorporate enemies
+- [ ] Incorporate opponent
 - [ ] Add new skins to Isnaake
 - [ ] Add new food for Isnaake
 
