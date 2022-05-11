@@ -7,6 +7,7 @@ convertido en un gusano rosa **(Isnaake)** y debera irse comiendo todas las mier
 veas en la pantalla para poder crecer . Seras capaz de hacer crecer a **Isnaake**?
 
 - [x] Incorporar sistema de record
+- [x] Incorporar banda sonora
 - [ ] Incorporar enemigos
 - [ ] Incorporar nuevas skins a Isnaake
 - [ ] Incorporar nuevos alimentos para Isnaake
@@ -28,6 +29,7 @@ turned into a pink worm **(Isnaake)** and will have to eat all the shit that
 see on the screen to be able to grow. Will you be able to grow up **Isnaake**?
 
 - [x] Incorporate record system
+- [ ] Incorporate OST
 - [ ] Incorporate enemies
 - [ ] Add new skins to Isnaake
 - [ ] Add new food for Isnaake
