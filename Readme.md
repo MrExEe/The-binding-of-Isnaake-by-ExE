@@ -11,7 +11,7 @@ veas en la pantalla para poder crecer . Seras capaz de hacer crecer a **Isnaake*
 - [x] Incorporar banda sonora
 - [ ] Incorporar Oponente
 - [ ] Incorporar nuevas skins a Isnaake
-- [ ] Incorporar nuevos alimentos para Isnaake
+- [x] Incorporar nuevos alimentos para Isnaake
 
 
  
@@ -33,7 +33,7 @@ see on the screen to be able to grow. Will you be able to grow up **Isnaake**?
 - [x] Incorporate OST
 - [ ] Incorporate opponent
 - [ ] Add new skins to Isnaake
-- [ ] Add new food for Isnaake
+- [x] Add new food for Isnaake
 
 
  
