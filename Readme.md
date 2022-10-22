@@ -18,4 +18,4 @@ see on the screen to be able to grow. Will you be able to grow up **Isnaake**?
  
 INSTALLATION AND HOW TO PLAY
 
-You need install pygame librarie, then execute .py file
+You need install pygame and numpy libraries, then execute .py file in cmd
